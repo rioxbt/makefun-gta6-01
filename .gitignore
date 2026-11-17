@@ -1,0 +1,6 @@
+# Build output the entry program writes (MAKEFUN_OUTPUT_DIR), never committed.
+out/
+out2/
+node_modules/
+*.log
+.DS_Store

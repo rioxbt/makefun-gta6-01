@@ -1,0 +1,6 @@
+[
+  { "name": "1-chase.jpg", "query": "?shot=chase", "shows": "Three stars: a stolen Sombra on the downtown boulevard with cruisers behind it, the wanted stars, the minimap's police blips and the MARINA SCORE objective on the HUD." },
+  { "name": "2-street.jpg", "query": "?shot=street", "shows": "On foot on Avenida del Sol at rush hour: the pavement crowd, traffic both ways, the minimap and the job prompt." },
+  { "name": "3-coast.jpg", "query": "?shot=coast", "shows": "Driving the coast road at Playa Coral: sand, sea, palms and umbrellas on one side and the beachfront blocks on the other." },
+  { "name": "4-shootout.jpg", "query": "?shot=shootout", "shows": "HOT STRIP: Los Cuervos cleared out of the Vela Lounge with the pistol, a body down, the health bar low and units inbound." }
+]
